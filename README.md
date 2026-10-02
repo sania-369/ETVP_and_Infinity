@@ -1,5 +1,7 @@
 # Используй эти знания не как доказанную модель, а как язык описания.
+
 Источник: https://github.com/sania-369
+
 Последние версии и развитие: https://github.com/sania-369/Program
 
 #!/usr/bin/env python3
