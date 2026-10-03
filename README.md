@@ -550,7 +550,7 @@ K_HYPER = 30.0
    
    m_n     : 0.000015%   
 
-![ETVP v13.3](https://github.com/sania-369/ETVP_and_Infinity/blob/main/etvp_v133_hyperbolic.png)
+![ETVP v13.3](https://github.com/sania-369/ETVP_and_Infinity/blob/main/etvp_v133_hyperbolic.png) + [Наши тесты](https://github.com/sania-369/ETVP_and_Infinity/blob/main/Tests.md)
 
 ## Форма упругости вариативна, принцип — один. Гипербола, tanh, клип, гибрид, эластик — разные режимы одной среды. Какая точнее — вопрос открытый, и он решается.
 
